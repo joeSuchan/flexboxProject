@@ -1,7 +1,6 @@
 .flex-container {
   display: flex;
 
-  
 }
 .flex-container  div {
   background-color: #f1f1f1;
@@ -9,3 +8,16 @@
   padding: 30px;
   font-size: 40px;
 }
+
+.flex-container1 {
+  display: flex;
+}
+.flex-container1  div {
+  background-color: #f1f1f1;
+  margin: 20px;
+  padding: 30px;
+  font-size: 40px;
+}
+
+
+#content{padding-left: 10px;}
