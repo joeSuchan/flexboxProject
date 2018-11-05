@@ -8,10 +8,9 @@
 
 ## Workshop Topic : Group 4-2 Designing with Flexbox
 ## Process 
-### 1.Will need a slideshow, which breifly outlines what Flexboxes are and what they do 
-### 3.Someone to make a header
-### 4.Someone to make a footer 
-### 5.Someone to make the layout of the interactive part
+#### Go through the PowerPoint
+#### Open index.html and flex.css
+#### Work on the tasks assigned in index.html
 ## Resources
 ### https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
 ### https://mdbootstrap.com/docs/jquery/navigation/footer/
