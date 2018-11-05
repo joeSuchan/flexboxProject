@@ -10,3 +10,4 @@
 ### 5.Someone to make the layout of the interactive part
 ## Resources
 ### https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+### https://mdbootstrap.com/docs/jquery/navigation/footer/

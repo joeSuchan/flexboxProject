@@ -19,5 +19,33 @@
   font-size: 40px;
 }
 
+.flex-container2 {
+  display: flex;
+  
+}
+.flex-container2  div {
+  background-color: #f1f1f1;
+  margin: 20px;
+  padding: 30px;
+  font-size: 40px;
+}
+.flex-container3 {
+  display: flex;
+  
+}
+.flex-container3  div {
+  background-color: #f1f1f1;
+  margin: 20px;
+  padding: 30px;
+  font-size: 40px;
+}
+
+
+
 
 #content{padding-left: 10px;}
+.container-fluid{color: #d3d3d3;
+				 background-color: #333;
+}
+			
+			

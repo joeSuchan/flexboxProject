@@ -2,3 +2,5 @@ Answers to the challenges
 1.justify-content: flex-end;
 2. flex-direction: row-reverse;
    justify-content: flex-end;
+3. flex-direction: column;
+4.  justify-content: space-between;
