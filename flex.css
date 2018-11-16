@@ -1,5 +1,6 @@
 .flex-container {
   display: flex;
+  justify-content: flex-end;
 
 }
 .flex-container  div {
@@ -11,6 +12,8 @@
 
 .flex-container1 {
   display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
 }
 .flex-container1  div {
   background-color: #f1f1f1;
@@ -21,6 +24,7 @@
 
 .flex-container2 {
   display: flex;
+  flex-direction: column;
   
 }
 .flex-container2  div {
@@ -31,6 +35,7 @@
 }
 .flex-container3 {
   display: flex;
+  justify-content: space-around;
   
 }
 .flex-container3  div {
